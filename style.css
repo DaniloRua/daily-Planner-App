@@ -12,7 +12,7 @@ textarea {
   background: transparent;
   border: none;
   resize: none;
-  color: #000000;
+  color: #000000 !important;
   border-left: 1px solid black;
   border-top: 1px solid black;
   padding: 10px;
@@ -56,12 +56,12 @@ header {
 
 .present {
   background-color: #ff6961;
-  color: white;
+  color: white !important;
 }
 
 .future {
   background-color: #77dd77;
-  color: white;
+  color: white !important;
 }
 
 .saveBtn {

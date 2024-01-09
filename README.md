@@ -4,7 +4,7 @@
 
 This is a simple daily planner application. The application allows the user to save events in time blocks of one hour.
 
-# Business Day Planner Features
+## Business Day Planner Features
 
 ## 1. Hourly Time Blocks:
    - The planner organizes the day into hourly time blocks, making it easy to plan and manage events throughout the business hours.
@@ -27,14 +27,12 @@ This is a simple daily planner application. The application allows the user to s
 ## 6. Responsive Design:
    - The application is designed to be responsive, ensuring a seamless experience across various devices.
 
-
 ## Tools
 
 - HTML
 - CSS 
 - BOOTSTRAP
 - jQuery
-
 
 ## Preview
 

@@ -29,11 +29,11 @@ function createRow(id) {
     } else {
         textarea.addClass("past");
     }
+    
     // Save button click event
     saveBtn.on('click', function () {
         saveLocalStorage(textarea);
     });
-
     row.append(hourDiv, textarea, saveBtn);
     container.append(row);
 }

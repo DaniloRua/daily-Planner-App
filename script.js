@@ -7,7 +7,7 @@ currentDayEl.text(now);
 var currentHour = dayjs().format('HH');
 
 //create timeblocks using a function and id
-for (var i = 9; i <= 22; i++) {
+for (var i = 9; i <= 17; i++) {
     createRow(i);
 }
 
